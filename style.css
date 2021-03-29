@@ -1,0 +1,45 @@
+html, body {
+  
+  height: 100%;
+    min-width: 500px;
+    background-image:url('img/desk.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+
+  }
+  
+  header {
+    color:Black;
+    text-align: center;
+    font-size: 3em;
+  }
+  
+  #instructions {
+    color: rgb(0, 0, 0);
+  }
+  .bg {
+    background-color: #00000028!important;
+    margin-top: 20%;
+   
+    
+    
+}
+  
+  .instruction {
+    padding: 15px;
+    margin: 10px 0;
+  }
+  
+  .plus {
+    background-color: #f67280;
+  }
+  
+  .moins {
+    background-color: #ffa372;
+  }
+  
+  .fini {
+    background-color : #0c9463;
+  }
